@@ -91,3 +91,4 @@ typings/
 
 ### WebStorm ###
 .idea/
+*.db
